@@ -2,7 +2,7 @@
     font-family: Comic sans-serif;
     line-height: 1.5;
     font-weight: 400;
-  /* background page for homea and font  */
+  /* background page for home and font  */
     color-scheme: light dark;
     color: rgba(6, 40, 153, 0.87);
     background-color: #18dde8;
@@ -132,7 +132,7 @@
     .card-inner{
       position: relative;
       width:100%;
-      text-align: center;
+      text-align: left;
       transform-style: preserve-3d;
       transition: transform 1s;
     }
