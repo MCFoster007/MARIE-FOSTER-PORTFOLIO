@@ -1,8 +1,8 @@
 // import React from 'react';
-import porscheImage from './assets/images/porschegreen.jpeg';
-import goonsImage from './assets/images/gg pic.jpeg';
-import cowsImage from './assets/images/cows.jpeg';
-import './Portfolio.css'; 
+// import porscheImage from './assets/images/porschegreen.jpeg';
+// import goonsImage from './assets/images/gg pic.jpeg';
+// import cowsImage from './assets/images/cows.jpeg';
+// import './Portfolio.css'; 
 
 export default function Portfolio() {
   return (
@@ -11,7 +11,7 @@ export default function Portfolio() {
       <div className="portfolio-container">
         <div className="portfolio-item">
           <img
-            src={porscheImage}
+            src="./assets/images/porschegreen.jpeg"
             alt="green targa porsche"
             className="portfolio-image"
           />
@@ -22,7 +22,7 @@ export default function Portfolio() {
 
         <div className="portfolio-item">
           <img
-            src={goonsImage}
+            src="./assets/images/gg pic.jpeg"
             alt="gruesome goons"
             className="portfolio-image"
           />
@@ -33,7 +33,7 @@ export default function Portfolio() {
 
         <div className="portfolio-item">
           <img
-            src={cowsImage}
+            src="./assets/images/cows.jpeg"
             alt="cows"
             className="portfolio-image"
           />
@@ -44,7 +44,7 @@ export default function Portfolio() {
 
         <div className="portfolio-item">
           <img
-            src={cowsImage}
+            src="./assets/images/cows.jpeg"
             alt="cows"
             className="portfolio-image"
           />
