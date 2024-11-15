@@ -3,13 +3,7 @@ export default function Resume() {
     <div>
       <h1>Resume</h1>
       <p>
-        <ul>
-          <li>
-            <a href="portfolio.html">Portfolio</a>
-          </li>
-          <li><a href="contactform.html">Contact Form</a></li>
-          <li><a href="index.html">Home</a></li>
-        </ul>
+        
        </p> 
        <p>
         <ul>
@@ -20,7 +14,7 @@ export default function Resume() {
                     <div className="card-inner">
                         <div className="front-face">
                             <h3>Check out my resume</h3>
-                            <img src="./src/assets/cartoon me.jpeg" alt="a cartoon pic of me"width ="400" height="375"/>
+                            <img src="./public/assets/images/cartoon me.jpeg" alt="a cartoon pic of me"width ="400" height="375"/>
                             
                         </div>
                         <div className="back-face">
