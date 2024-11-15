@@ -1,0 +1,76 @@
+:root {
+    font-family: Comic sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+  /* background page for homea and font  */
+    color-scheme: light dark;
+    color: rgba(6, 40, 153, 0.87);
+    background-color: #18dde8;
+  
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  /* the navbar coloring */
+  a {
+    font-weight: 500;
+    color: #ed16b7;
+    text-decoration: inherit;
+  }
+  a:hover {
+    color: green;
+    text-decoration: green wavy underline;
+  }
+  
+  body {
+    margin: 0;
+    display: float;
+    place-items: center;
+    min-width: 320px;
+    min-height: 100vh;
+  }
+  
+  h1 {
+    font-size: 2.2em;
+    line-height: 1.1;
+  }
+  h2 {
+    font-size: 1.5em;
+    text-align: center;
+    line-height: 1.1;
+    background-color: greenyellow;
+    width: 200px;
+    padding: 20px;
+    border: 10px solid palevioletred;
+  }
+  p {
+    font-size: 1em;
+    line-height: 1.1;
+    background-color: light rgb(108, 106, 106);
+    width: 600px;
+    padding:80px;
+    border: 20px solid #f09809;
+    flex-direction: row;
+   
+    
+  }
+  img.align-left {
+    float: left;
+    margin-right: 10px;
+  }
+  
+  img.align-right {
+    float: right;
+    margin-left: 5px;
+  }
+  img.medium{
+    width: 100px;
+    height: 100px;
+  }
+  .footer{
+  font-style: italic;
+  }
+  
+   
