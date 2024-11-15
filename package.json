@@ -1,0 +1,16 @@
+{
+  "name": "marie-foster-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd fresh && cd new && npm run start",
+    "build": "cd fresh && cd new && npm run build",
+    "install": "cd fresh && cd new && npm run install"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
