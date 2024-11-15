@@ -4,7 +4,7 @@ export default function About() {
       <h1>About Me</h1>
       <p>
       <img
-        src="./public/assets/images/fish.jpg"
+        src="/assets/images/fish.jpg"
         alt="fish" width="200"
       height="200"  className="align-left medium" />
 
@@ -29,7 +29,7 @@ export default function About() {
 
       
       <img
-        src="./public/assets/images/crab.jpg"
+        src="/assets/images/crab.jpg"
         alt="crab"  width="100"  height="100" 
         className="align-right medium"/>
              Cheers to coding,
