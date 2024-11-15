@@ -1,22 +1,17 @@
 
+import React from 'react';
 
-import './index.css';
-import Navbar from './components/Navbar';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import Navbar from './src/components/Navbar.jsx';
 
-function App() {
-  // const [count, setCount] = useState(0)
+const App= ()=> {
+
 
   return (
-    <>
-   <Router>
+     <div>
       <Navbar/>
-      <Switch>
-        <Route path='/'exact />
-      </Switch>
-      </Router>
-    </>
-  );
+     </div>
+
+  )
 }
 
 export default App;
@@ -24,13 +19,3 @@ export default App;
 
 
 
-
-      {/* <div>
-      <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-       
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div> */}

@@ -1,25 +1,24 @@
-import { useState } from 'react';
-// import { useState } from 'react'
-import { Link } from "react-router-dom";
+// import {useState} from 'react';
+import React from 'react';
+import './src/components/Navbar.css';
+import melogo from './src/assets/melogo.jpeg';
+import App from './src/components/App.jsx';
 
-function Navbar() {
-  const [click, setClick] = useState(false);
-  const handleClick = () => setClick(!click);
+
+const Navbar = () => {
 
   return (
-    <>
-      <nav className="navbar">
-        <div className="navbar-container">
-          <Link to="/" className="navbar-logo">
-            MCF <i className="feb fe-typo3" />
-        </Link>
-          <div className="menu-icon" onClick={handleClick} >
-            <i className={click ? "fas fa-times" : "fas fa-bars"} />
-          </div>
-        </div>
+      <nav>
+     <img src={melogo} alt="cartoon me" />
+     <ul>
+      <li>About Me</li>
+      <li>Portfolio</li>
+      <li>Contact Me</li>
+      <li>Resume</li>
+     </ul>
       </nav>
-    </>
-  );
+   
+  )
 }
 
 export default Navbar;
