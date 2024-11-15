@@ -17,15 +17,21 @@ export default function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    
-    // Check if any required fields are empty
+
     if (!formData.name || !formData.email || !formData.message) {
       alert('Please Fill the Form!');
       return;
     }
-    
-    // If all fields are filled, proceed with submission logic
+
+   
     console.log('Form submitted:', formData);
+
+   
+    setFormData({
+      name: '',
+      email: '',
+      message: ''
+    });
   };
 
   return (
