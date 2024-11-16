@@ -8,7 +8,8 @@
 [![Contributors](https://img.shields.io/github/contributors/404pandas/project-2-setup-guide.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/project-2-setup-guide/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/404pandas/project-2-setup-guide.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/project-2-setup-guide/network/members)
 [![Stargazers](https://img.shields.io/github/stars/404pandas/project-2-setup-guide.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/project-2-setup-guide/stargazers)
-[![Issues](https://img.shields.io/github/issues/404pandas/project-2-setup-guide.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/project-2-setup-guide/issues)
+
+
 
 </div>
 
@@ -21,19 +22,13 @@ about app
 
   <br />
     <a href=""><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-  
-    <a href=">github deployed</a>
-    ·
-    <a href=">live site</a>
-    ·
-
-
   </p>
 </div>
 
+  [Netlify Deployment](https://mcfoster.netlify.app)
 
+      
+ 
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -61,7 +56,15 @@ about app
 
 
 ## About The Project
-<!-- add screen shots -->
+[walkthru](https://youtu.be/LUiIxgXJZtk)
+
+![signups](./client/public/signupsrnsht.png)
+
+![second](./client/public/secondjokeshownss.png)
+
+![signlist](./client/public/signuplistss.png)
+
+![jokes](./client/public/jokeshownss.png)
 
 
 This project was built using React, JS
@@ -73,19 +76,8 @@ This project was built using React, JS
 
 [![Javascript](https://img.shields.io/badge/Language-JavaScript-ff0000?style=plastic&logo=JavaScript&logoWidth=10)](https://javascript.info/)
 [![CSS](https://img.shields.io/badge/Language-CSS-ff8000?style=plastic&logo=CSS3&logoWidth=10)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Node.js](https://img.shields.io/badge/Framework-Node.js-ffff00?style=plastic&logo=Node.js&logoWidth=10)](https://nodejs.org/en/)
-[![Express](https://img.shields.io/badge/Framework-Express-80ff00?style=plastic&logo=Express&logoWidth=10)](https://expressjs.com/)
-[![npm](https://img.shields.io/badge/Tool-npm-00ff00?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/)
-[![Bcrypt](https://img.shields.io/badge/Package-Bcrypt-00ffff?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/package/bcrypt)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-0000ff?style=plastic&logo=VisualStudioCode&logoWidth=10)](https://code.visualstudio.com/docs)
-[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-8000ff?style=plastic&logo=PostgreSQL&logoWidth=10)](https://www.postgresql.org/docs/)
-[![TypeScript](https://img.shields.io/badge/Language-TypeScript-007ACC?style=plastic&logo=typescript&logoWidth=10)](https://www.typescriptlang.org/)
-[![Dotenv](https://img.shields.io/badge/Package-Dotenv-00b894?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/package/dotenv)
-[![Express](https://img.shields.io/badge/Framework-Express-80ff00?style=plastic&logo=express&logoWidth=10)](https://expressjs.com/)
-[![pg](https://img.shields.io/badge/Package-pg-0984e3?style=plastic&logo=postgresql&logoWidth=10)](https://www.npmjs.com/package/pg)
-[![Sequelize](https://img.shields.io/badge/Package-Sequelize-6c5ce7?style=plastic&logo=sequelize&logoWidth=10)](https://sequelize.org/)
-[![Nodemon](https://img.shields.io/badge/DevDependency-Nodemon-d63031?style=plastic&logo=nodemon&logoWidth=10)](https://www.npmjs.com/package/nodemon)
-[![JWT](https://img.shields.io/badge/Package-JWT-000000?style=plastic&logo=jsonwebtokens&logoWidth=10)](https://jwt.io/)
+[![React](https://img.shields.io/badge/Language-React-ff0000?style=plastic&logo=React&logoWidth=10)](https://react.info/)
 
 
 </div>
@@ -113,44 +105,29 @@ npm i
 3. Launch the app in development environment
 
 ```
-npm run dev
+npm run start
 ```
 
 5. Visit app:
 
-[http://localhost:3000/](
+[http://localhost:3000/]
 
-
-## Roadmap
-
-Bug Fixes: 
-Performance Improvements: 
-Documentation: 
 
 #### MVP
 
 
 - [ ] Front End
 
-  - [ ] User Auth
-  - [ ] User Profile Page
-    - [ ] Routing
-    - [ ] Styling
   - [ ] Landing Page
     - [ ] Routing
     - [ ] Styling
 
-- [ ] Back End
-  - [ ] User Auth
-  - [ ] Models
-  - [ ] Seeds
-  - [ ] api Routing
 
 #### Future Development
 
-- [ ]
-- [ ]
-- [ ]
+- [ ]Add more project links
+- [ ]Make the into a interactive fish bowl 
+- [ ]Add more design to make it pop more
 
 
 ## Contributing
@@ -180,15 +157,17 @@ This project is licensed under the MIT license.
 
 Project Links:
 
-[Github Repository]()
+[Github Repository](https://github.com/MCFoster007/MARIE-FOSTER-PORTFOLIO)
+
+[Github Pages Deployment]( https://mcfoster007.github.io/MARIE-FOSTER-PORTFOLIO/)
 
 
-[Deployment]()
+[Netlify Deployment](https://mcfoster.netlify.app)
 
 
 
 ## Acknowledgments
-
+Thank my tutors who helped me and guided me.
 
 
 

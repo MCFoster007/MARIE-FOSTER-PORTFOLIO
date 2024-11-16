@@ -12,6 +12,7 @@ export default function Resume() {
                     <div className="card-inner">
                         <div className="front-face">
                             <h3>Check out my resume</h3>
+                            <h6>Hover over pic</h6>
                             <img src="/assets/images/cartoon me.jpeg" alt="a cartoon pic of me"width ="400" height="375"/>
                             
                         </div>
