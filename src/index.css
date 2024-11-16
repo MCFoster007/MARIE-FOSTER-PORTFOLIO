@@ -6,6 +6,7 @@
     color-scheme: light dark;
     color: rgba(6, 40, 153, 0.87);
     background-color: #18dde8;
+   
   
     font-synthesis: none;
     text-rendering: optimizeLegibility;
@@ -30,6 +31,7 @@
     place-items: center;
     min-width: 320px;
     min-height: 100vh;
+    background-color: #18dde8;
   }
   
   h1 {
