@@ -56,15 +56,15 @@ about app
 
 
 ## About The Project
-[walkthru](https://youtu.be/LUiIxgXJZtk)
+[walkthru](https://youtu.be/r3S3Rpv5EMk)
 
-![signups](./client/public/signupsrnsht.png)
+![first](./public/assets/images/first.png)
 
-![second](./client/public/secondjokeshownss.png)
+![second](./public/assets/images/second.png)
 
-![signlist](./client/public/signuplistss.png)
+![third](./public/assets/images/third.png)
 
-![jokes](./client/public/jokeshownss.png)
+![fourth](./public/assets/images/fourth.png)
 
 
 This project was built using React, JS
@@ -108,9 +108,7 @@ npm i
 npm run start
 ```
 
-5. Visit app:
-
-[http://localhost:3000/]
+4. It will show running on localhost:3000 in your browser
 
 
 #### MVP
