@@ -56,6 +56,9 @@ about app
 
 
 ## About The Project
+This was to showcase my projects I have done so far and show my resume and where to find me.  I have a website stating About Me, Resume, Portfolio and Contact.  You can read how I got starting in coding, then check out my flipcardd page where you click on the links to my word doc resume and see my LinkedIn page.  You proceed to the next tab to see my projects and what is to come then to reach out to me by filling ou the form on my contact page.  
+
+
 [walkthru](https://youtu.be/r3S3Rpv5EMk)
 
 ![first](./public/assets/images/first.png)
