@@ -73,6 +73,7 @@
   }
   .footer{
   font-style: italic;
+  place-items: center;
   }
   
   /* resume styling */

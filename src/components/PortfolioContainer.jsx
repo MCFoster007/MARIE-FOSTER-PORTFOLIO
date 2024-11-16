@@ -30,6 +30,10 @@ export default function PortfolioContainer() {
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
 
       <main className="mx-3">{renderPage()}</main>
+      <div className="footer">
+     <p>Created with Love: by Mighty Marie 
+           © 2024 All Rights Reserved.</p>
+ </div>
     </div>
   );
 }

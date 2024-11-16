@@ -35,11 +35,9 @@ export default function About() {
              Cheers to coding,
       <b><i>Marie-Chantal Foster</i></b>
     </p>
+  
     </div>
 
-//      <div className="footer">
-//      <p>Created with Love; by Mighty Marie</p>
-//      <p>© 2024 All Rights Reserved.</p>
-//  </div>
+
   );
 }
