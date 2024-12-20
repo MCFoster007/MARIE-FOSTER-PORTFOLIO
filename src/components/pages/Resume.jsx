@@ -18,7 +18,7 @@ export default function Resume() {
                         </div>
                         <div className="back-face">
                             <p>Marie-Chantal Foster
-                        <li><a href="https://docs.google.com/document/d/1aWvLZZx3rwvq-lDyTtr10MGJAsddwzkZsmLWp3kuh-8/edit?tab=t.0">My Resume</a></li>
+                        <li><a href="https://docs.google.com/document/d/1pxadhByldpmVCQ-R3mUtpB7Mi5THP0M6ZJYjQVthPLo/edit?tab=t.0">My Resume</a></li>
                         <li><a href="https://www.linkedin.com/in/mariechantalfoster">My 
                              LinkedIn</a></li>
                             </p>
